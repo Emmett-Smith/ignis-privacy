@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Policy - Ignis AI Firewall</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; line-height: 1.6;">
+    
+    <h1 style="color: #667eea;">Privacy Policy - Ignis AI Firewall</h1>
+    <p><em>Last Updated: December 27, 2024</em></p>
+
+    <h2>Data Collection</h2>
+    <p>Ignis collects the following data <strong>locally on your device only</strong>:</p>
+    <ul>
+        <li>Number of prompts scanned</li>
+        <li>Number of threats blocked</li>
+        <li>Platform usage statistics (ChatGPT, Claude, Gemini)</li>
+        <li>User preferences and whitelist data</li>
+    </ul>
+
+    <h2>Data Storage</h2>
+    <p>All data is stored locally using Chrome's storage API. <strong>No data is sent to external servers.</strong></p>
+
+    <h2>Data Sharing</h2>
+    <p><strong>We do not share, sell, or transmit any of your data to third parties.</strong></p>
+
+    <h2>What We Don't Collect</h2>
+    <p>We do NOT collect:</p>
+    <ul>
+        <li>The content of your prompts or conversations</li>
+        <li>Personal information (name, email, etc.)</li>
+        <li>Browsing history</li>
+        <li>Credentials or passwords</li>
+        <li>Analytics or tracking data</li>
+    </ul>
+
+    <h2>Permissions</h2>
+    <p>Ignis requests these Chrome permissions:</p>
+    <ul>
+        <li><strong>storage:</strong> Store preferences and statistics locally</li>
+        <li><strong>activeTab:</strong> Detect which AI platform you're using</li>
+        <li><strong>scripting:</strong> Inject security checks into AI pages</li>
+        <li><strong>tabs:</strong> Communication between extension components</li>
+        <li><strong>notifications:</strong> Alert you of critical threats</li>
+    </ul>
+
+    <h2>Data Deletion</h2>
+    <p>Delete all data anytime by:</p>
+    <ul>
+        <li>Clicking "Reset Statistics" in the extension</li>
+        <li>Uninstalling the extension</li>
+        <li>Clearing Chrome extension data</li>
+    </ul>
+
+    <h2>Children's Privacy</h2>
+    <p>Ignis does not collect personally identifiable information from anyone, including children under 13.</p>
+
+    <h2>Contact</h2>
+    <p>Questions? Contact: <a href="https://www.linkedin.com/in/smithemmett/">linkedin.com/in/smithemmett</a></p>
+
+    <hr style="margin: 40px 0;">
+    <p style="text-align: center; color: #666;">© 2024 Ignis - AI Firewall. All rights reserved.</p>
+
+</body>
+</html>
